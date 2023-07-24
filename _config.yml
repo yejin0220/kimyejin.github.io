@@ -1,0 +1,8 @@
+locale                   : "en-US"
+title                    : "이충영의 포트폴리오"
+title_separator          : "-"
+subtitle                 : portfolio
+name                     : "Choungyoung"
+description              : "My portfolio"
+url                      : "https://cylee0328.github.io/"
+baseurl                  : ""
